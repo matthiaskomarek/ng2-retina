@@ -1,1 +1,1 @@
-## Streamlined Angular Starter
+## ng2 Retina
