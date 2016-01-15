@@ -2,3 +2,6 @@ exclude_paths:
 - test/**/*
 - src/public/**/*
 - src/vendor.ts
+- karma.conf.js
+- spec-bundle.js
+- webpack.config.js
